@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dmantac2
 - 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning cyber security 
+- 🌱 I’m currently learning Cisco cyber ops 
 - 💞️ I’m looking to collaborate on network security project 
 - 📫 How to reach me https://linktr.ee/dmantac2
 
