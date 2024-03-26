@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dmantac2
-- 👀 I’m interested in cyber security 
-- 🌱 I’m currently learning Cisco cyber ops 
-- 💞️ I’m looking to collaborate on network security project 
+- 👀 I’m a CyberSecurity Expert
+- 🌱 I’m a Pentester
+- 💞️ I’m looking to collaborate on any cybersecurity | network security project
 - 📫 How to reach me https://linktr.ee/dmantac2
 
 <!---
